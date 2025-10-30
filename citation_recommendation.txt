@@ -1,0 +1,143 @@
+2020+
+
+ACL:            26 - Search "citation recommendation" on https://aclanthology.org/
+CL:             01 - Search "citation recommendation" on https://submissions.cljournal.org/index.php/cljournal/index
+JAIR:           00 - Search "citation recommendation" on https://www.jair.org/index.php/jair/index
+TACL:           00 - Search "citation recommendation" on https://transacl.org/index.php/tacl/issue/archive
+TSLP:           00 - Search "citation recommendation" on https://dl.acm.org/journal/tslp
+SIGNLL:         00 - Search "citation recommendation" on https://aclanthology.org/sigs/signll/
+CoNLL:          00 - Search "citation recommendation" on https://aclanthology.org/venues/conll/
+NeurIPS:        00 - Search "citation recommendation" on https://neurips.cc/
+IJDL:           01 - Search "citation recommendation" on https://dl.acm.org/journal/ijdl
+ESwA:           08 - Search "citation recommendation" on https://www.sciencedirect.com/journal/expert-systems-with-applications
+Scientometrics: 15 - Search "citation recommendation" on https://link.springer.com/search
+
+Journals:
++ ESwA: Expert Systems with Applications (ESwA)
++ CL: Computational Linguistics (CL): MIT Press
++ Scientometrics: An International Journal for all Quantitative Aspects of the Science of Science, Communication in Science and Science Policy
++ TOIS: ACM Transactions on Information Systems (TOIS)
+- CIT: Journal of Computing and Information Technology (CIT)
++ IJSWIS: International Journal on Semantic Web and Information Systems (IJSWIS)
+~ IJDL: International Journal on Digital Libraries (IJDL)
+TIST: ACM Transactions on Intelligent Systems and Technology (TIST)
+TMIS: ACM Transactions on Management Information Systems (TMIS)
+TOIS: ACM Transactions on Information Systems (TOIS)
+TALLIP: ACM Transactions on Asian and Low-Resource Language Information Processing (TALLIP)
+TASLP: IEEE/ACM Transactions on Audio, Speech and Language Processing (TASLP)
+
+Conferences:
+- NoDaLiDa: Nordic Conference of Computational Linguistics (NoDaLiDa): University of Tartu Library
++ IJCNLP: International Joint Conference on Natural Language Processing (IJCNLP)
++ ACL: Annual Meeting of the Association for Computational Linguistics (ACL): Association for Computational Linguistics (ACL)
++ LREC: International Conference on Language Resources and Evaluation (LREC): European Language Resources Association (ELRA)
++ NAACL: Nations of the Americas Chapter of the Association for Computational Linguistics (NAACL): Association for Computational Linguistics (ACL)
++ COLING: International Conference on Computational Linguistics (COLING): International Committee on Computational Linguistics (ICCL)
++ PACLIC: Pacific Asia Conference on Language, Information and Computation (PACLIC): Association for Computational Linguistics (ACL)
++ EMNLP: Conference on Empirical Methods in Natural Language Processing (EMNLP): Association for Computational Linguistics (ACL)
++ Findings: Findings of the Association for Computational Linguistics (Findings): Association for Computational Linguistics (ACL)
++ ECIR: European Conference on Information Retrieval (ECIR)
+- ICICICT: International Conference on Intelligent Computing, Instrumentation and Control Technologies (ICICICT)
++ KSEM: Knowledge Science, Engineering and Management
+JCDL: Joint Conference on Digital Libraries (JCDL)
+RecSys: ACM Conference On Recommender Systems (RecSys)
+ICAIL: International Conference on Artificial Intelligence and Law (ICAIL)
+SAC: Symposium on Applied Computing (SAC)
+PCI: Panhellenic Conference on Informatics (PCI)
+WI: Web Intelligence (WL)
+TheWebConf: The ACM Web Conference (TheWebConf)
+
+- Workshops:
++ SDP: Workshop on Scholarly Document Processing (SDP): Association for Computational Linguistics (ACL)
++ BioNLP: Biomedical Natural Language Processing Workshop (BioNLP)
++ WS: Other Workshops and Events (WS): Association for Computational Linguistics (ACL)
++ AISD: Workshop on AI and Scientific Discovery (AISD): Association for Computational Linguistics (ACL)
++ HCINLP: Workshop on Bridging Human–Computer Interaction and Natural Language Processing (HCINLP): Association for Computational Linguistics (ACL)
+
+Papers:
+
+| Title                                                                                                                                | #  | Conference/Journal | Year | Citations | Related? |
+|--------------------------------------------------------------------------------------------------------------------------------------+----+--------------------+------+-----------+----------|
+| CiteEval: Principle-Driven Citation Evaluation for Source Attribution                                                                | 1  | ACL                | 2025 | 2         | NO       |
+| The Noisy Path from Source to Citation: Measuring How Scholars Engage with Past Research                                             | 2  | ACL                | 2025 | 1         | NO       |
+| Dual Attention Model for Citation Recommendation with Analyses on Explainability of Attention Mechanisms and Qualitative Experiments | 3  | CL                 | 2022 | 7         | YES      |
+| Dual Attention Model for Citation Recommendation                                                                                     | 4  | COLING             | 2020 | 14        | YES      |
+| ILCiteR: Evidence-grounded Interpretable Local Citation Recommendation                                                               | 5  | LREC, COLING       | 2024 | 2         | YES      |
+| SymTax: Symbiotic Relationship and Taxonomy Fusion for Effective Citation Recommendation                                             | 6  | Findings           | 2024 | 1         | YES      |
+| Improved Local Citation Recommendation Based on Context Enhanced with Global Information                                             | 7  | SDP                | 2020 | 28        | YES      |
+| Large-scale Evaluation of Transformer-based Article Encoders on the Task of Citation Recommendation                                  | 8  | SDP                | 2022 | 7         | YES      |
+| This Reference Does Not Exist: An Exploration of LLM Citation Accuracy and Relevance                                                 | 9  | HCINLP, WS         | 2024 | 15        | YES      |
+| Paper Recommendation Using Citation Contexts in Scholarly Documents                                                                  | 10 | PACLIC             | 2023 | 3         | YES      |
+| Recommending Missed Citations Identified by Reviewers: A New Task, Dataset and Baselines                                             | 11 | LREC, COLING       | 2024 | 2         | YES      |
+| SciLit: A Platform for Joint Scientific Literature Discovery, Summarization and Citation Generation                                  | 12 | ACL                | 2023 | 7         | YES      |
+| Multilevel Text Alignment with Cross-Document Attention                                                                              | 13 | EMNLP              | 2020 | 22        | YES      |
+| Towards AI-assisted Academic Writing                                                                                                 | 14 | AISD, WS           | 2025 | 1         | YES      |
+| SPECTER: Document-level Representation Learning using Citation-informed Transformers                                                 | 15 | ACL                | 2020 | 785       | YES      |
+| On the Use of Context for Predicting Citation Worthiness of Sentences in Scholarly Articles                                          | 16 | NAACL              | 2021 | 11        | YES      |
+| Evaluating Scholarly Impact: Towards Content-Aware Bibliometrics                                                                     | 17 | EMNLP              | 2021 | 7         | YES      |
+| CiteWorth: Cite-Worthiness Detection for Improved Scientific Document Understanding                                                  | 18 | Findings, IJCNLP   | 2021 | 33        | YES      |
+| Exploiting Citation Knowledge in Personalised Recommendation of Recent Scientific Publications                                       | 19 | LREC               | 2020 | 8         | YES      |
+| Chronological citation recommendation with time preference                                                                           | 20 | Scientometrics     | 2021 | 14        | YES      |
+| Beyond Citations: Integrating Finding-Based Relations for Improved Biomedical Article Representations                                | 21 | BioNLP, WS         | 2025 | 0         | YES      |
+| Citation Sentence Generation Leveraging the Content of Cited Papers                                                                  | 22 | SDP                | 2022 | 2         | YES      |
+| Citation Context Classification: Critical vs Non-critical                                                                            | 23 | SDP                | 2022 | 8         | ?        |
+| Personalized Transformer for Explainable Recommendation                                                                              | 24 | ACL, IJCNLP        | 2021 | 218       | ?        |
+| Task Definition and Integration For Scientific-Document Writing Support                                                              | 25 | SDP                | 2021 | 12        | ?        |
+| ERU-KG: Efficient Reference-aligned Unsupervised Keyphrase Generation                                                                | 26 | ACL                | 2025 | 1         | ?        |
+| UniHD@CL-SciSumm 2020: Citation Extraction as Search                                                                                 | 27 | SDP                | 2020 | 6         | ?        |
+| SChuBERT: Scholarly Document Chunks with BERT-encoding boost Citation Count Prediction                                               | 28 | SDP                | 2020 | 31        | NO       |
+| LitSearch: A Retrieval Benchmark for Scientific Literature Search                                                                    | 29 | EMNLP              | 2024 | 4         | YES      |
+| Predicting the presence of inline citations in academic text using binary classification                                             | 30 | NoDaLiDa           | 2023 | 3         | ?        |
+| Global citation recommendation employing generative adversarial network                                                              | 31 | ESwA               | 2021 | 54        | YES      |
+| A context-aware citation recommendation model with BERT and graph convolutional networks                                             | 32 | Scientometrics     | 2020 | 220       | YES      |
+| CiteSum: Citation Text-guided Scientific Extreme Summarization and Domain Adaptation with Limited Supervision                        | 33 | EMNLP              | 2022 | 21        | ?        |
+| Context-Aware Legal Citation Recommendation using Deep Learning                                                                      | 34 | ICAIL              | 2021 | 56        | YES      |
+| Graph Neural Collaborative Topic Model for Citation Recommendation                                                                   | 35 | TOIS               | 2021 | 47        | YES      |
+| Local Citation Recommendation with Hierarchical-Attention Text Encoder and SciBERT-Based Reranking                                   | 36 | ECIR               | 2022 | 49        | YES      |
+| CiteBART: Learning to Generate Citations for Local Citation Recommendation                                                           | 40 | EMNLP              | 2025 | 2         | YES      |
+| Enhancing local citation recommendation with recurrent highway networks and SciBERT-based embedding                                  | 41 | ESwA               | 2024 | 10        | YES      |
+| A fast local citation recommendation algorithm scalable to multi-topics                                                              | 42 | ESwA               | 2024 | 9         | YES      |
+| Heterogeneous deep graph convolutional network with citation relational BERT for COVID-19 inline citation recommendation             | 43 | ESwA               | 2023 | 17        | YES      |
+| An empirical study of the design choices for local citation recommendation systems                                                   | 44 | ESwA               | 2022 | 7         | YES      |
+| Citation recommendation using semantic representation of cited papers’ relations and content                                         | 45 | ESwA               | 2022 | 45        | YES      |
+| Deep learning in citation recommendation models survey                                                                               | 46 | ESwA               | 2020 | 97        | YES      |
+| Gated relational stacked denoising autoencoder with localized author embedding for global citation recommendation                    | 47 | ESwA               | 2021 | 16        | YES      |
+| Mf-cite: citation intent classification in scientific papers based on multi-feature fusion                                           | 49 | Scientometrics     | 2025 | 1         | YES      |
+| Personalized global citation recommendation with diversification awareness                                                           | 50 | Scientometrics     | 2024 | 2         | YES      |
+| A context-aware enhanced local citation recommendation model integrating SciBERT and self-adaptive attention                         | 51 | Scientometrics     | 2025 | 0         | YES      |
+| Knowledge graph enhanced citation recommendation model for patent examiners                                                          | 52 | Scientometrics     | 2024 | 8         | YES      |
+| Context-aware citation recommendation of scientific papers: comparative study, gaps and trends                                       | 53 | Scientometrics     | 2023 | 13        | YES      |
+| Research on semantic representation and citation recommendation of scientific papers with multiple semantics fusion                  | 54 | Scientometrics     | 2023 | 20        | YES      |
+| Enhancing citation recommendation using citation network embedding                                                                   | 55 | Scientometrics     | 2022 | 36        | YES      |
+| A two-stage deep learning-based system for patent citation recommendation                                                            | 56 | Scientometrics     | 2022 | 26        | YES      |
+| A scientific citation recommendation model integrating network and text representations                                              | 57 | Scientometrics     | 2021 | 18        | YES      |
+| Correction to: An overview and evaluation of citation recommendation models                                                          | 58 | Scientometrics     | 2021 | 3         | YES      |
+| Navigation-based candidate expansion and pretrained language models for citation recommendation                                      | 60 | Scientometrics     | 2020 | 23        | YES      |
+| Bibliography Counselor: A Citation Recommendation Tool                                                                               | 61 | JCDL               | 2023 | 0         | YES      |
+| GLAMOR: Graph-based LAnguage MOdel embedding for citation Recommendation                                                             | 62 | RecSys             | 2024 | 1         | YES      |
+| ICA-CRMAS: Intelligent Context-Awareness Approach for Citation Recommendation based on Multi-Agent System                            | 63 | TMIS               | 2024 | 3         | YES      |
+| Evolving Knowledge Graph Representation Learning with Multiple Attention Strategies for Citation Recommendation System               | 64 | TIST               | 2024 | 10        | YES      |
+| Graph Neural Collaborative Topic Model for Citation Recommendation                                                                   | 65 | TOIS               | 2021 | 47        | YES      |
+| Context-aware legal citation recommendation using deep learning                                                                      | 66 | ICAIL              | 2021 | 56        | YES      |
+| ACM-CR: A Manually Annotated Test Collection for Citation Recommendation                                                             | 67 | JCDL               | 2024 | 4         | YES      |
+| HybridCite: A Hybrid Model for Context-Aware Citation Recommendation                                                                 | 68 | JCDL               | 2020 | 36        | YES      |
+| ConvCN: A CNN-Based Citation Network Embedding Algorithm towards Citation Recommendation                                             | 69 | JCDL               | 2020 | 17        | YES      |
+| Venue Topic Model–enhanced Joint Graph Modelling for Citation Recommendation in Scholarly Big Data                                   | 70 | TALLIP             | 2020 | 35        | YES      |
+| Attentive Stacked Denoising Autoencoder With Bi-LSTM for Personalized Context-Aware Citation Recommendation                          | 71 | TASLP              | 2020 | 55        | YES      |
+| Evaluating the usefulness of citation graph and document metadata in scientific document recommendation for neophytes                | 72 | SAC                | 2020 | 0         | YES      |
+| AMiner Citation-Data Preprocessing for Recommender Systems on Scientific Publications                                                | 73 | PCI                | 2022 | 6         | YES      |
+| Recommending Multiple Positive Citations for Manuscript via Content-Dependent Modeling and Multi-Positive Triplet                    | 74 | WI                 | 2022 | 3         | YES      |
+| C-Rex: A Comprehensive System for Recommending In-Text Citations with Explanations                                                   | 75 | TheWebConf         | 2021 | 1         | YES      |
+
+Surveys:
+
+| Title                                                                         | #  | Conference/Journal | Year | Citations | Related? |
+|-------------------------------------------------------------------------------+----+--------------------+------+-----------+----------|
+| A Survey of Citation Recommendation Tasks and Methods                         | 37 | CIT                | 2020 | 13        | YES      |
+| A Survey on Citation Recommendation System                                    | 38 | ICICICT            | 2022 | 14        | YES      |
+| A Systematic Review of Citation Recommendation Over the Past Two Decades      | 39 | IJSWIS             | 2023 | 10        | YES      |
+| A review of citation recommendation: from textual content to enriched context | 48 | Scientometrics     | 2020 | 71        | YES      |
+| An overview and evaluation of citation recommendation models                  | 59 | Scientometrics     | 2021 | 43        | YES      |
+| Citation recommendation: approaches and datasets                              | 76 | IJDL               | 2020 | 146       | YES      |
+| Deep learning in citation recommendation models survey                        | 77 | ESwA               | 2020 | 97        | YES      |
+
